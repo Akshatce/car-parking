@@ -1,0 +1,16 @@
+create_parking_lot 6
+park GJ-01-HH-1234 White
+park GJ-01-HH-9999 White
+park GJ-01-BB-0001 Black
+park GJ-01-HH-7777 Red
+park GJ-01-HH-2701 Blue
+park GJ-01-HH-3141 Black
+leave 4
+status
+park GJ-01-P-333 White
+park DL-12-AA-9999 White
+registration_numbers_for_cars_with_colour White
+slot_numbers_for_cars_with_colour White
+slot_number_for_registration_number GJ-01-HH-3141
+slot_number_for_registration_number GJ-04-AY-1111
+exit
